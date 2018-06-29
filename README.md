@@ -1,6 +1,6 @@
 # Remove-Obsolete-Nuget-Cache
 Remove Nuget Cache by PowerShell
-刪除過時的 Nuget packages (Windoews)
+刪除過時的 Nuget packages (Windows)
 內容修改自https://gist.github.com/thoemmi/c76f1a5533fa86e631b2ed9bbc43c412
  參考微軟Nuget Clean 路徑與參數說明:
  https://docs.microsoft.com/zh-tw/nuget/consume-packages/managing-the-global-packages-and-cache-folders
